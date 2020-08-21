@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : ven. 21 août 2020 à 17:42
+-- Généré le : ven. 21 août 2020 à 18:21
 -- Version du serveur :  10.4.11-MariaDB
 -- Version de PHP : 7.4.6
 
@@ -55,14 +55,6 @@ CREATE TABLE `contact` (
   `email` varchar(255) NOT NULL,
   `comment` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
---
--- Déchargement des données de la table `contact`
---
-
-INSERT INTO `contact` (`id`, `email`, `comment`) VALUES
-(1, 'mohamedjedata@gmail.com', 'I love your website'),
-(2, 'mestersalim1@gmail.com', 'Thank you very much');
 
 -- --------------------------------------------------------
 
