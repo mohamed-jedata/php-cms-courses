@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="452" height="512" viewBox="0 0 452 512">
+  <g id="logo" transform="translate(-30)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M256,0c-49.629,0-90,41.371-90,91a90,90,0,0,0,180,0C346,41.371,305.629,0,256,0Z" fill="#fa7923"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_2" data-name="Path 2" d="M286,181H226c-21.158,0-41.6,5.469-60.19,14.773A376.387,376.387,0,0,1,256,233.145a376.4,376.4,0,0,1,90.19-37.372C327.6,186.469,307.158,181,286,181Z" fill="#fa7923"/>
+      </g>
+    </g>
+    <g id="Group_10" data-name="Group 10">
+      <g id="Group_9" data-name="Group 9">
+        <path id="Path_5" data-name="Path 5" d="M45,211a14.991,14.991,0,0,0-15,15V337c33.091,0,0-27.091,0,6v86c0,33.091,33.091-8,0-8v15a14.991,14.991,0,0,0,15,15c76.9,0,138.39,24.286,196,61V259.594C183.13,226.414,120.9,211,45,211Z" fill="#fa7923"/>
+      </g>
+    </g>
+    <g id="Group_12" data-name="Group 12">
+      <g id="Group_11" data-name="Group 11">
+        <path id="Path_6" data-name="Path 6" d="M482,426V226a14.991,14.991,0,0,0-15-15c-75.9,0-138.13,15.414-196,48.594V512c57.61-36.714,119.1-61,196-61a14.991,14.991,0,0,0,15-15V421a60.059,60.059,0,0,1-60-60l-22,69C400,396.909,448.909,426,482,426Z" fill="#fa7923"/>
+      </g>
+    </g>
+  </g>
+</svg>

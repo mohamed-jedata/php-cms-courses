@@ -1,0 +1,395 @@
+body{
+    text-align:right;
+	font-family: 'Tajawal', sans-serif;
+
+}
+
+
+
+ html, body {
+   width: 100%;
+   height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+   margin: 0;
+   padding: 0;
+}
+
+.page-footer{
+	padding-top: 40px;
+	margin-top: 48px;
+	background-color : #007bff36 ;
+
+}
+
+.fb-ic i{
+	color:#4267B2;
+}
+.lk-ic i{
+color:  #2867b2;
+}
+.gt-ic i{
+color:black;
+}
+.fb-ic:hover{
+	opacity: 0.8;
+}
+.lk-ic:hover{
+	opacity: 0.8;
+}
+.gt-ic:hover{
+	opacity: 0.8;
+}
+
+.scrollabletextbox {
+	padding : 5px 5px 5px 5px;
+    height:300px;
+	/* width:500px; */
+	width: 100%;
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    overflow:scroll;
+}
+
+
+.paths{
+padding-top:60px;
+padding-bottom:60px;
+}
+
+.path_card {
+  box-shadow: 0 1px 2px 0 #74b9ff;
+/*  box-shadow: 0 4px 8px 0 #74b9ff; */
+  transition: 0.3s;
+/*   width: 40%; */
+  margin-top:20px;
+  padding-top:20px;
+  padding-bottom:10px;
+
+ 
+}
+
+ .mycard h2{
+   padding-bottom:15px;
+  }
+
+
+.path_card:hover {
+ box-shadow: 0 4px 8px 0 #74b9ff;
+}
+
+.mycard {
+  padding: 2px 16px;
+  text-align:center;
+}
+
+
+.btn-left {
+  text-align:center;
+}
+.btn-left div{
+	
+	margin-bottom:-10px;
+}
+
+.course_card{
+	  margin-top:10px;
+	  margin-bottom:16px;
+	  box-shadow: 0 1px 2px 0 #74b9ff;
+     transition: 0.3s;
+}
+
+.course_card:hover {
+ box-shadow: 0 3px 6px 0 #74b9ff;
+}
+
+#border{
+ border: 2px solid #00000029 ;
+ border-radius:10px;
+ padding-bottom:16px;
+ padding-top:16px;
+ background-color: #bdddff3b;
+}
+
+
+.page_content{
+
+line-height: 1.7;
+
+}
+
+
+.welecomPage{
+	text-align:center;
+		background :  #1D248F ;
+}
+.welecomPage div{
+
+	padding-bottom:10px;
+
+}
+
+
+
+
+
+.whyPro {
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+.whyPro h2{
+	text-align : center;
+	padding-bottom : 25px;
+}
+
+
+
+.iconWhyPro{
+	color : #E76C10 ;
+	font-size:40px;
+	padding-top:16px;
+	padding-bottom:16px;
+}
+
+.welecomTitle{
+	line-height: 1.7;
+	color:white;
+}
+
+.redyToStart{
+	margin-top:20px;
+	padding-top : 60px;
+	padding-bottom:60px;
+	background:#1d248f;
+/*border-radius: 20px 20px 20px 20px;*/
+margin-bottom:-48px;
+
+}
+
+
+.para{
+	font-size:22px;
+color:	#fff;
+	line-height: 1.7;
+}
+
+	/*This is modifying the btn-primary colors but you could create your own .btn-something class as well*/
+.btnStart {
+   padding : 4px 20px 4px 20px;
+    color: #ecf5ff;
+    background-color: #E76C10;
+    border-color: #E76C10; /*set the color you want here*/
+
+}
+.btnStart:hover {
+    color: #ecf5ff;
+    background-color: #E76C10E3;
+    border-color: #E76C10; /*set the color you want here*/
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #1d248f;
+	border-color: #1d248f;
+}
+
+.btn-primary:hover {
+	color: #fff;
+	background-color: #1d248fbf;
+	border-color: #0062cc;
+}
+
+
+.intro_info{
+	padding-top: 38px;
+
+}
+
+
+
+#contactMe{
+	margin-top:48px;
+	padding-top : 10px;
+	padding-bottom:30px;
+	background-image: url("../assets/contact_img.jpg");
+	
+    background-color:#E76C105E;
+	background-position: top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+     margin-bottom:-48px;
+	 /* position: relative; */
+}
+.layer{
+	/* background-color: rgba(29, 161, 242, 0.04);
+	padding-top: 20px;;
+	 padding-bottom:18px;
+	 margin-top: -60px;
+	 margin-bottom: -60px;  */
+    position: relative;
+
+}
+
+
+/* Scroll to top */
+
+/* #myBtn {
+	display: none; /* Hidden by default */
+/*	position: fixed; /* Fixed/sticky position */
+/*	bottom: 20px; /* Place the button at the bottom of the page */
+/*	right: 30px; /* Place the button 30px from the right */
+/*	z-index: 99; /* Make sure it does not overlap */
+/*	border: none; /* Remove borders */
+/*	outline: none; /* Remove outline */
+/*	background-color: #E76C10; /* Set a background color */
+/*	color: white; /* Text color */
+/*	cursor: pointer; /* Add a mouse pointer on hover */
+/*	padding: 5px 10px 5px 10px; /*Some padding*/
+/*	border-radius: 12px; /* Rounded corners */
+/*	font-size: 18px; /* Increase font size */
+  /*}*/
+   
+
+  #thankForContact {
+	/*display: none; /* Hidden by default */
+	position: fixed; /* Fixed/sticky position */
+	bottom: 70px; /* Place the button at the bottom of the page */
+	right: 30px; /* Place the button 30px from the right */
+	z-index: 99; /* Make sure it does not overlap */
+	border: none; /* Remove borders */
+	outline: none; /* Remove outline */
+  }
+/* 
+  #myBtn:hover {
+	background-color: #E76C10C7; /* Add a dark-grey background on hover */
+  /*} */
+
+  #redStrt{
+	font-weight: bolder;
+	color:#fff;
+		line-height: 1.7;
+ }
+
+
+ .myjump{
+	background-color: #1D248F;
+	border-radius:0 0 0 0;
+ }
+
+
+/* Media Querry */
+
+
+
+
+ /* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+  
+	.mynavbar{
+		background : #1d248ff2  ;
+	}
+    h1{
+		font-size: 38px;
+	}
+	h2{
+		font-size: 30px;
+	}
+	#redStrt{
+
+		font-size:30px;
+		
+	 }
+	 .page_content{
+		font-size: 18px;
+	}
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.mynavbar{
+		background : #1d248ff2  ;
+	}
+	h1{
+		font-size: 40px;
+	}
+	h2{
+		font-size: 30px;
+	}
+	#redStrt{
+		/* font-weight: bolder;
+		color:#fff; */
+		font-size:35px;
+			/* line-height: 1.7; */
+	 }
+	 .page_content{
+		font-size: 20px;
+	}
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.mynavbar{
+		background : #1d248ff2  ;
+	}
+	h1{
+		font-size: 50px;
+	}
+	h2{
+		font-size: 36px;
+	}
+	#redStrt{
+
+		font-size:38px;
+	 }
+	 .page_content{
+		font-size: 20px;
+	}
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	.mynavbar{
+		background : #1D248F  ;
+	}
+	h1{
+		font-size: 60px;
+	}
+	h2{
+		font-size: 40px;
+	}
+	#redStrt{
+	
+		font-size:40px;
+		
+	 }
+	 .page_content{
+		font-size: 23px;
+	}
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+	.mynavbar{
+		background : #1D248F  ;
+	}
+	h1{
+		font-size: 70px;
+	}
+	h2{
+		font-size: 40px;
+	}
+	#redStrt{
+	
+		font-size:45px;
+			
+	 }
+	 .page_content{
+		 font-size: 23px;
+	 }
+ }
